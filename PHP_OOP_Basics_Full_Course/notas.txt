@@ -1,0 +1,10 @@
+1. Classes / Objets
+
+2 . Getters, Setters, constructors, destructors
+
+3. 
+
+1. Encapsulation - holds things together
+2. Abstraction - abstract - to be less specific
+3. Inheritance
+4. Polymorphism
